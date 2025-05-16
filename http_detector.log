@@ -1,0 +1,272 @@
+2025-04-07 20:03:40,393 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-07 20:03:41,409 - WARNING - No open HTTP ports found
+2025-04-07 20:23:35,158 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-07 20:23:36,164 - WARNING - No open HTTP ports found
+2025-04-07 20:24:55,673 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-07 20:24:55,792 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 12:20:56,959 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 12:20:57,343 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 12:52:08,128 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 12:52:09,132 - WARNING - No open HTTP ports found
+2025-04-13 13:02:41,203 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 13:02:42,206 - WARNING - No open HTTP ports found
+2025-04-13 13:09:22,252 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 13:09:22,291 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 13:15:07,029 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 13:15:07,081 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 16:37:54,158 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 16:37:54,283 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 16:45:26,576 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 16:45:26,633 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 16:47:52,115 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 16:47:52,190 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 16:52:19,041 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 16:52:19,087 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-13 19:35:22,775 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-13 19:35:22,812 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-14 07:59:47,394 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-14 07:59:47,435 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-15 10:51:12,175 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-15 10:51:12,254 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-15 13:00:23,428 - INFO - No anomaly cases found, skipping GAN training
+2025-04-15 14:05:55,171 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-15 14:05:55,202 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-15 14:21:59,766 - INFO - No anomaly cases found, skipping GAN training
+2025-04-15 14:23:35,601 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-15 14:23:35,632 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-15 14:29:04,182 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-15 14:29:04,212 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-15 14:40:38,657 - INFO - No anomaly cases found, skipping GAN training
+2025-04-15 14:54:05,595 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-15 14:54:05,653 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-15 16:18:29,323 - INFO - No anomaly cases found, skipping GAN training
+2025-04-15 16:19:11,656 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-15 16:19:11,710 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-15 16:35:10,596 - INFO - No anomaly cases found, skipping GAN training
+2025-04-15 16:35:41,027 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-15 16:35:41,059 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 14:56:05,366 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 14:56:05,418 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 15:03:04,569 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 15:03:04,605 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 15:18:48,504 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 15:18:48,557 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 15:34:53,864 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 15:34:53,917 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 15:37:21,971 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 15:37:22,025 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-16 15:44:41,116 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 15:44:41,176 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 16:23:36,327 - INFO - No anomaly cases found, skipping GAN training
+2025-04-16 16:44:39,962 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 16:44:40,017 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 16:44:43,935 - INFO - No anomaly cases found, skipping GAN training
+2025-04-16 16:48:37,329 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 16:48:37,363 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 16:48:43,315 - INFO - No anomaly cases found, skipping GAN training
+2025-04-16 16:51:38,464 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 16:51:38,498 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 18:46:47,252 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 18:46:47,330 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 19:43:55,151 - INFO - No anomaly cases found, skipping GAN training
+2025-04-16 19:47:05,891 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 19:47:05,946 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-16 19:48:32,518 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 19:48:32,560 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-16 19:48:58,065 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-16 19:48:58,094 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-16 20:47:15,182 - INFO - Training GAN with fuzz data...
+2025-04-17 11:24:35,880 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-17 11:24:35,883 - WARNING - No open HTTP ports found
+2025-04-17 11:25:19,874 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-17 11:25:19,969 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-17 11:27:39,704 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-17 11:27:39,735 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-17 11:44:04,755 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-17 11:44:04,846 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-17 11:44:45,729 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-17 11:44:45,835 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-17 18:36:27,731 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-17 18:36:27,801 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-17 20:06:33,675 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-17 20:06:34,791 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 00:42:30,246 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 00:42:31,356 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 10:40:24,970 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 10:40:41,905 - WARNING - No open HTTP ports found
+2025-04-18 10:49:30,919 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 10:49:46,203 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-18 10:50:19,274 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 10:50:26,841 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 10:50:26,841 - WARNING - Invalid fuzzing engine selection. Skipping fuzzing.
+2025-04-18 10:51:27,578 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 10:51:45,064 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 10:51:45,064 - WARNING - Invalid fuzzing engine selection. Skipping fuzzing.
+2025-04-18 10:54:50,038 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 10:54:58,767 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 10:54:58,767 - WARNING - Invalid fuzzing engine selection. Skipping fuzzing.
+2025-04-18 10:57:32,247 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 10:57:37,011 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 10:57:37,012 - WARNING - Invalid fuzzing engine selection. Skipping fuzzing.
+2025-04-18 11:00:56,257 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 11:01:05,906 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing.
+2025-04-18 11:09:26,024 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 11:09:33,286 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing.
+2025-04-18 11:09:57,031 - INFO - Training GAN with fuzz data...
+2025-04-18 11:11:14,168 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 11:11:23,092 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing.
+2025-04-18 11:11:46,694 - INFO - Generating fuzz cases using DeepSeek...
+2025-04-18 11:11:46,694 - INFO - Generated test cases using DeepSeek: ['Generated case 0: length 83', 'Generated case 1: length 71', 'Generated case 2: length 18', 'Generated case 3: length 63', 'Generated case 4: length 49', 'Generated case 5: length 68', 'Generated case 6: length 16', 'Generated case 7: length 48', 'Generated case 8: length 31', 'Generated case 9: length 48']
+2025-04-18 11:13:34,839 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 11:13:42,904 - INFO - Port 80 found CVE-2020-12440 vulnerability
+2025-04-18 11:16:52,868 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 11:17:03,747 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-18 11:17:28,424 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 11:17:36,743 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 11:18:00,398 - INFO - Generating test cases with DeepSeek...
+2025-04-18 11:18:00,398 - INFO - Generated new fuzz test cases using DeepSeek: ['Generated case 0: length 25', 'Generated case 1: length 7', 'Generated case 2: length 91', 'Generated case 3: length 84', 'Generated case 4: length 89', 'Generated case 5: length 40', 'Generated case 6: length 10', 'Generated case 7: length 87', 'Generated case 8: length 37', 'Generated case 9: length 56']
+2025-04-18 11:32:22,191 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 11:32:38,988 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 11:33:02,539 - INFO - Generating test cases with DeepSeek...
+2025-04-18 11:33:02,539 - INFO - Generated new fuzz test cases using DeepSeek: ['Generated case 0: length 86', 'Generated case 1: length 19', 'Generated case 2: length 43', 'Generated case 3: length 84', 'Generated case 4: length 59', 'Generated case 5: length 34', 'Generated case 6: length 100', 'Generated case 7: length 79', 'Generated case 8: length 55', 'Generated case 9: length 56']
+2025-04-18 12:18:08,988 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 12:18:16,007 - INFO - Port 80 found CVE-2020-12440 vulnerability in Nginx 1.18
+2025-04-18 12:18:38,255 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 12:18:43,462 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-18 12:19:07,306 - INFO - Generating test cases with DeepSeek...
+2025-04-18 12:19:07,309 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-18 12:36:50,285 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 12:38:28,903 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 12:38:34,747 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
+2025-04-18 18:46:33,529 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-18 18:46:39,306 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
+2025-04-21 16:45:42,255 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-21 16:45:51,552 - WARNING - No open HTTP ports found
+2025-04-21 16:56:17,912 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-21 16:56:25,469 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
+2025-04-21 16:59:32,341 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-21 16:59:40,875 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
+2025-04-21 17:34:19,091 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-21 17:34:26,865 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-21 17:34:51,174 - INFO - Generating test cases with DeepSeek...
+2025-04-21 17:34:51,176 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-21 17:34:51,177 - INFO - \u2699\ufe0f Starting generalization test with 100 generated payloads on http://192.168.25.133:80...
+2025-04-21 17:34:51,814 - INFO - \u2705 Generalization test completed. 0 suspicious responses detected out of 40.
+2025-04-21 17:34:51,817 - INFO - \U0001f4c4 Generalization results saved to: D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-21 20:14:11,626 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-21 20:14:18,959 - WARNING - No open HTTP ports found
+2025-04-21 20:15:56,970 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-21 20:16:03,497 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-21 20:16:27,222 - INFO - Generating test cases with DeepSeek...
+2025-04-21 20:16:27,225 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-21 20:16:27,225 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-21 20:16:27,226 - INFO - \u2699\ufe0f Starting generalization test with 100 generated payloads on http://192.168.25.133:80...
+2025-04-21 20:16:27,753 - INFO - \u2705 Generalization test completed. 0 suspicious responses detected out of 40.
+2025-04-21 20:16:27,755 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 12:19:41,474 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 12:19:47,744 - WARNING - No open HTTP ports found
+2025-04-22 12:20:06,631 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 12:20:12,691 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
+2025-04-22 12:50:55,394 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 12:51:02,910 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
+2025-04-22 12:51:35,888 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 12:51:43,084 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 12:51:43,084 - INFO - Starting fuzz test at depth 1...
+2025-04-22 12:51:55,357 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 12:51:55,357 - INFO - Generating test cases with DeepSeek...
+2025-04-22 12:51:55,360 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 12:51:55,360 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 12:51:55,360 - INFO - Starting generalization test with 100 generated payloads on http://192.168.25.133:80...
+2025-04-22 12:51:55,902 - INFO - Generalization test completed. 0 suspicious responses detected out of 40.
+2025-04-22 12:51:55,914 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 12:57:03,913 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 12:57:14,442 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 12:57:14,442 - INFO - Starting fuzz test at depth 1...
+2025-04-22 12:57:26,603 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 12:57:26,604 - INFO - Generating test cases with DeepSeek...
+2025-04-22 12:57:26,608 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 12:57:26,608 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 12:57:26,608 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 12:57:26,692 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 12:57:26,693 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 13:07:57,741 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:08:06,366 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 13:08:06,366 - INFO - Starting fuzz test at depth 1...
+2025-04-22 13:08:18,628 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 13:08:18,628 - INFO - Generating test cases with DeepSeek...
+2025-04-22 13:08:18,630 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 13:08:18,630 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 13:08:18,630 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 13:08:18,797 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 13:08:18,798 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 13:09:58,390 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:10:07,739 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 13:10:07,739 - INFO - Starting fuzz test at depth 1...
+2025-04-22 13:10:19,846 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 13:10:19,846 - INFO - Generating test cases with DeepSeek...
+2025-04-22 13:10:19,848 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 13:10:19,848 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 13:10:19,848 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 13:10:19,961 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 13:10:19,962 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 13:12:28,591 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:12:36,083 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 13:12:36,083 - INFO - Starting fuzz test at depth 1...
+2025-04-22 13:12:48,253 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 13:12:48,253 - INFO - Generating test cases with DeepSeek...
+2025-04-22 13:12:48,255 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 13:12:48,255 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 13:12:48,255 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 13:12:48,415 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 13:12:48,416 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 13:14:14,736 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:14:30,566 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 13:14:30,566 - INFO - Starting fuzz test at depth 1...
+2025-04-22 13:14:42,701 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 13:14:42,702 - INFO - Generating test cases with DeepSeek...
+2025-04-22 13:14:42,703 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 13:14:42,703 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 13:14:42,704 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 13:14:42,866 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 13:14:42,867 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 13:16:59,071 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:17:05,676 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 13:17:05,676 - INFO - Starting fuzz test at depth 1...
+2025-04-22 13:17:17,889 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 13:17:17,889 - INFO - Generating test cases with DeepSeek...
+2025-04-22 13:17:17,891 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 13:17:17,891 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 13:17:17,891 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 13:17:18,042 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 13:17:18,043 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 13:29:35,287 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:29:43,403 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 13:29:43,403 - INFO - Starting fuzz test at depth 1...
+2025-04-22 13:29:55,377 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 13:29:55,378 - INFO - Generating test cases with DeepSeek...
+2025-04-22 13:29:55,379 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 13:29:55,379 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 13:29:55,379 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 13:29:55,526 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 13:29:55,527 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 13:31:58,063 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:32:06,272 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 13:32:06,272 - INFO - Starting fuzz test at depth 1...
+2025-04-22 13:32:18,683 - INFO - Starting fuzz test at depth 2...
+2025-04-22 13:33:05,959 - INFO - No anomaly cases found, skipping AI-based generation
+2025-04-22 13:34:07,339 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 13:34:13,065 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
+2025-04-22 15:52:26,078 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 15:52:40,776 - WARNING - No open HTTP ports found
+2025-04-22 15:53:30,521 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-22 15:53:56,200 - INFO - Port 80 no common vulnerabilities found, performing fuzz testing
+2025-04-22 15:53:56,200 - INFO - Starting fuzz test at depth 1...
+2025-04-22 15:54:08,547 - INFO - Anomalies found at depth 1, stopping further fuzzing.
+2025-04-22 15:54:08,547 - INFO - Generating test cases with DeepSeek...
+2025-04-22 15:54:08,550 - INFO - Generated new fuzz test cases using DeepSeek written to: D:\MP\http_vulnerability_detector\generated_output\generated_cases.log
+2025-04-22 15:54:08,550 - INFO - Running generalization testing on generated fuzz cases...
+2025-04-22 15:54:08,552 - INFO - Starting generalization test with 10 valid payloads on http://192.168.25.133:80...
+2025-04-22 15:54:08,662 - INFO - Generalization test completed. 0 suspicious responses detected out of 10.
+2025-04-22 15:54:08,665 - INFO - Generalization test results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-23 09:10:33,067 - INFO - Starting intelligent HTTP vulnerability detection
+2025-04-23 09:10:42,051 - INFO - [+] Port 80: CVE-2020-12440 vulnerability found
