@@ -1,0 +1,42 @@
+{
+    "Apache": {
+        "2.4.41": [
+            {
+                "id": "CVE-2019-10092",
+                "cvss": 7.5,
+                "description": "Path Traversal Vulnerability"
+            },
+            {
+                "id": "CVE-2019-10098",
+                "cvss": 5.3,
+                "description": "XSS Vulnerability"
+            }
+        ],
+        "2.4.43": [
+            {
+                "id": "CVE-2020-11985",
+                "cvss": 8.1,
+                "description": "Remote Code Execution"
+            }
+        ]
+    },
+    "nginx": {
+        "1.18.0": [
+            {
+                "id": "CVE-2021-23017",
+                "cvss": 6.1,
+                "description": "Configuration Error Vulnerability"
+            },
+            {
+                "id": "CVE-2021-3618",
+                "cvss": 7.5,
+                "description": "Buffer Overflow in HTTP/2 Implementation"
+            },
+            {
+                "id": "CVE-2020-12440",
+                "cvss": 4.3,
+                "description": "HTTP Request Smuggling Vulnerability"
+            }
+        ]
+    }
+}

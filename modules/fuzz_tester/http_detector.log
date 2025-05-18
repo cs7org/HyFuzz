@@ -1,0 +1,240 @@
+2025-04-21 17:16:53,908 - ERROR - Test case file not found: generated_cases.log
+2025-04-21 17:18:59,839 - ERROR - Test case file not found: generated_output\generated_cases.log
+2025-04-21 17:22:01,280 - INFO - \u2699\ufe0f Starting generalization test with 100 generated payloads on http://192.168.25.133:80...
+2025-04-21 17:22:02,005 - INFO - \u2705 Generalization test completed. 0 suspicious responses detected out of 40.
+2025-04-21 17:22:02,007 - INFO - \U0001f4dd Results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-21 17:22:02,007 - INFO - \U0001f50d Showing preview of results:
+2025-04-21 17:22:02,052 - INFO - {
+  "index": 0,
+  "payload": "[Generated case 0] Length: 69",
+  "status_code": 200,
+  "response_time": 0.021,
+  "suspicious": false
+}
+2025-04-21 17:22:02,052 - INFO - {
+  "index": 1,
+  "payload": "GET /LgaJgKshEYu7ok9O36WhRy39r9pdmIKEI9j4ZFklJttUPiEyUmK2tfAWdKTH9KkuWUYIt HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-21 17:22:02,052 - INFO - {
+  "index": 3,
+  "payload": "Host: fuzzed.target.local",
+  "status_code": 200,
+  "response_time": 0.014,
+  "suspicious": false
+}
+2025-04-21 17:22:02,052 - INFO - {
+  "index": 5,
+  "payload": "User-Agent: DeepSeek-Fuzzer",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-21 17:22:02,052 - INFO - {
+  "index": 10,
+  "payload": "[Generated case 1] Length: 71",
+  "status_code": 200,
+  "response_time": 0.005,
+  "suspicious": false
+}
+2025-04-22 21:50:39,456 - INFO - Starting generalization test with 100 valid payloads on http://192.168.25.133:80...
+2025-04-22 21:50:41,047 - INFO - Generalization test completed. 0 suspicious responses detected out of 100.
+2025-04-22 21:50:41,050 - INFO - Results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 21:50:41,050 - INFO - Showing preview of results:
+2025-04-22 21:50:41,050 - INFO - {
+  "index": 0,
+  "payload": "GET /r9uXmyMKr6ysdUu1vZZbBwomxQCU65lLX7HX8zw2MQk41C68GdYito2x3sc7kQsohjQIJVdCNUsxyxffpdhJ3mPg3YCnNOKNxrtv3qQxWeYtxkHV2yQWqyFoP4l9So HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.017,
+  "suspicious": false
+}
+2025-04-22 21:50:41,050 - INFO - {
+  "index": 1,
+  "payload": "GET /XAIQeaCA4TqVYJFlRWWJVE3TYHZ8cmLOpBGc5Q3fUMp1nHvXdzwv9YeyWpNoeM7kFCMFVmUGaATlzXfhze2Y7gxQA8WeSsxiMm4yrVpOfOtyBzklUtZ5L601qetK HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 21:50:41,050 - INFO - {
+  "index": 2,
+  "payload": "GET /rLZW6FOyJaV5kWwpfHlrWtqvrQTtw3FRZYmsaKBmEcbkpJnoRb6TYdKzfS7UkeZnDo7Q017gA3QwB4gZQolIEYF84nvtpoI1nDtJlETnSSRmRTuQDhuI3jEjOXlyYjSf968oIIHQR1svBojUK0qr3YiRSXJbltIA3Tea8IHnd5jkgpP HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 21:50:41,050 - INFO - {
+  "index": 3,
+  "payload": "GET /13NP5pJeAr2okSnkMZBFq26YIDHnYPvv4LzWeg3j5lx76ZQu50SaLLCdlHj4H8Cfvo0ZcLec4hR2hBt3am0RBQfzrRVTVVqlILE2iEr02JGZOSdK9EIlO45O0Vy HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 21:50:41,050 - INFO - {
+  "index": 4,
+  "payload": "GET /1E7IqD3SBBjBH7ecv0cTFhcZOUJIBj8CFRQVU4Ccpuohv80suCYgAcqKprT2tKqmx78XXSGGBMw2Xsp7vVv6RMDQDFEveshlN9tIcHcSBYl4chHPf HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 21:52:11,103 - INFO - Starting generalization test with 1000 valid payloads on http://192.168.25.133:80...
+2025-04-22 21:52:26,761 - INFO - Generalization test completed. 0 suspicious responses detected out of 1000.
+2025-04-22 21:52:26,770 - INFO - Results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 21:52:26,770 - INFO - Showing preview of results:
+2025-04-22 21:52:26,770 - INFO - {
+  "index": 0,
+  "payload": "GET /kbv2kXa9xKLkquSEu39GnCC5FlDJTYxcJfaoLHRmqXUUq7N0QGYnfK1770JRQZSlvXeJzoe3pJLtXaKuUN3iijSmqxyqZcBox7EmyYfyMOgtymXwpgAoKAhuxJxp4pISbWcO7qE8EYcYZNW HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 21:52:26,770 - INFO - {
+  "index": 1,
+  "payload": "GET /ToeZD6L8XxyWUWN6bPztCsWq8jchBnZY9kFcjEtFt7pvmffiDKvotydsln3UN7f6PANeaNZoPJFgu5YdHt4tqqYanQWJ0hk7alaaPM4YVkMsrgTcyjyDnB0J7XspQeSAdMfJrqdsOUF9Dt6gOWHQtfvYgPIg6p07Ll7Vud0okFurp3ReO3fiAI6XYH HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.017,
+  "suspicious": false
+}
+2025-04-22 21:52:26,770 - INFO - {
+  "index": 2,
+  "payload": "GET /brE0ynBBr2W7Ohbf4f7aT7Ez5uL5u9wNTM0c7To9QYrc4DnSL1E4iXIQ38tWeLhTf6RNLmVPo2gZP4eUKO5BmkocTfVvQ01pVpVxdIzjPWCKyh17OimCHzyYiSWyUWXjDuV0uj9zL7VDmJeATHpqRLqYyRszynNDPddWWVxTLviIrarfhrcVqGYlkLPmCmcdtxP26 HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 21:52:26,770 - INFO - {
+  "index": 3,
+  "payload": "GET /abZxNo0iw5oGJLsr7cshTZTOtFD2h61NaNVIbvEKVGCRrsl5YoVGpvRvXwaGQkFrIeH4sL3xHTa6kGlkIV78dVYRjbBRNxA7yf06IDJm0YiG5N8MVhhxAs77xn0UFiPnvF HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.032,
+  "suspicious": false
+}
+2025-04-22 21:52:26,770 - INFO - {
+  "index": 4,
+  "payload": "GET /6tPEJ4ovM4DDmsKGyuiK1LPfXNh58z0PY1cMyo9sTrn5LXPm6HJ5bxRz9q0vvsMD6QkbjGdoaTgwgo9crA4yudCB1f4dUVKTfq5PFZ8FbyFckcqorQtNb3l9EVA1J5oA2 HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.015,
+  "suspicious": false
+}
+2025-04-22 21:53:56,784 - INFO - Starting generalization test with 0 valid payloads on http://192.168.25.133:80...
+2025-04-22 21:53:56,784 - INFO - Generalization test completed. 0 suspicious responses detected out of 0.
+2025-04-22 21:53:56,786 - INFO - Results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 21:53:56,786 - INFO - Showing preview of results:
+2025-04-22 22:39:49,622 - INFO - Starting generalization test with 100 valid payloads on http://192.168.25.133:80...
+2025-04-22 22:39:51,139 - INFO - Generalization test completed. 0 suspicious responses detected out of 100.
+2025-04-22 22:39:51,140 - INFO - Results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 22:39:51,140 - INFO - Showing preview of results:
+2025-04-22 22:39:51,140 - INFO - {
+  "index": 0,
+  "payload": "GET /6zT6FIrAYbjKQbQX43CoRjSuRuClOjlHGPaC6Q4Zd7LDCmnhP5o8PU6S5duv7jvxz0AaWssG1Gdpg12CW9wSpL6vQ6p8X7G7brSz9PZqLsSHZpWxFKSGA8wBhhL3weyum1WoR17OhpHBcZt6yrEnJSIKjlfxuy03V2AhGkDM HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.02,
+  "suspicious": false
+}
+2025-04-22 22:39:51,140 - INFO - {
+  "index": 1,
+  "payload": "GET /jSKExQL8t3RvfYP2Ln6A6WOUwQYlYDRhFNy8A6l6tRlRMwEj07Ob1aawJOitfD394hCfrfY0S1GNhYc6ZDqViQD2Zh4mzlHzEvTW4k2idQLdH9Qk4JfK3BU08DEwBVRKs4AEvDp37Tm5N1bKHPO2LfTGXxovAt5MLUy2LN5KRlYm3K5I32vt2iKhx9U HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 22:39:51,141 - INFO - {
+  "index": 2,
+  "payload": "GET /Xvzb89wKeAoHRYXTEELUS0VhvCeq3dEHMbtGATeB2FssuT2Ht2K0RE6zKZzppMuiUAqpuWA7Koal28Cw63HN8R8ciH2RSFwjlqlnykklk9G8RlfzgOgPs5IVwgQQUXDu6Y0yYYZsiSNHr HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.017,
+  "suspicious": false
+}
+2025-04-22 22:39:51,141 - INFO - {
+  "index": 3,
+  "payload": "GET /z8akjWNTv1Wx2AuqoKpArwIK3HP3T5wpCdq7fAniwWlD4L9BJXnWVAbnvLHoo2KQ46J8Ax03R48CNBbMeW7DtIjrQshAzXrRAq5fhFVvHpQtfq7E9WlNWYyuTjEUPd3Hh3TOrIP6uNLFVqT HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.03,
+  "suspicious": false
+}
+2025-04-22 22:39:51,141 - INFO - {
+  "index": 4,
+  "payload": "GET /LPZOnH5wzU56zGcqNDG5xtNmxGXBLBpA0fSiesXGdwCCyQpg0HJb3a8aT7JFi5SNyUCz9VRXNyoa8t03eseIoOXlDtUwmTlQaF8SVotr2CpYVCEdtzrcQgiFzFQ4UbKmY9jQPM8QxCtVKB7QZa1jVSY9S7mtIczhPJx0dfbq44knu50gtMzW8wLS HTTP/1.1",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 23:11:41,060 - INFO - Starting generalization test with 100 payloads from log D:\MP\http_vulnerability_detector\generated_output\generated_cases.log on http://192.168.25.133:80...
+2025-04-22 23:11:42,520 - INFO - Generalization test completed. 0 suspicious responses detected out of 100.
+2025-04-22 23:11:42,523 - INFO - Results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 23:11:42,523 - INFO - Showing preview of results:
+2025-04-22 23:11:42,523 - INFO - {
+  "index": 0,
+  "payload": "GET /zWzij7kv57SRJouReHmUwQW9fDUZTEcdqtewcz8G1Ol9KQjzWTTCAtOXA7lqkcppfyhsblRcAQozYk2HLDOPiZ HTTP/1.1\r\nHost: fuzzed.target.local\r\nUser-Agent: GAN-Fuzzer\r\n\r\n",
+  "status_code": 200,
+  "response_time": 0.028,
+  "suspicious": false
+}
+2025-04-22 23:11:42,523 - INFO - {
+  "index": 1,
+  "payload": "GET /yrYGEm0HFXGSyimGbIHEcKhfKoXqv4Y2uKe82lbQFzZAticOiiYQkF9slzUNZRwG5S3eZ0Kr9X3c2YD7PWh3xYg7xSUPzHOXt3E0o HTTP/1.1\r\nHost: fuzzed.target.local\r\nUser-Agent: GAN-Fuzzer\r\n\r\n",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 23:11:42,523 - INFO - {
+  "index": 2,
+  "payload": "GET /HN93vTxy9xFHpOEPTddvwaVMn8YeoDtPA9O2OjS2ZlhbF04V01Y4JJoHcA8w0ZVtOtD4mZbZN0Ax2rU6kcZ5LXvacO9PGeSPic8nUajT1t9NsZBNTo HTTP/1.1\r\nHost: fuzzed.target.local\r\nUser-Agent: GAN-Fuzzer\r\n\r\n",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 23:11:42,523 - INFO - {
+  "index": 3,
+  "payload": "GET /r9FCPAjkHADsRsO7jmr4xggfOD5GXMqn1LkwHY0b8o8ZjceqYXVuboWzx2JcAkQHktGnigMfvqLrS3B7OAhpkeZ1ZkTsQ6YGhTK9noKOFtObCOjFsHZk0wVad2e7OoY8XbXtyg7IL5EinKw9HO1AMi6odAUsvaj7IRYByvZmTfUP0qJklfV0f HTTP/1.1\r\nHost: fuzzed.target.local\r\nUser-Agent: GAN-Fuzzer\r\n\r\n",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 23:11:42,523 - INFO - {
+  "index": 4,
+  "payload": "GET /tXmwpB9lvWZc7iIxOgGbc6ZR6wT2hLirsnjFukTy5VZxTcN9kgOnETXbO7faBPNfL9Y869B6iscSPR4PctA5e5Vlg8rzWfl7JnMaErXYV8gG1WTKZy8oS484L7LXO2KyVK9OE4RoG85KbDdfqsvOkWA8MNh8f9 HTTP/1.1\r\nHost: fuzzed.target.local\r\nUser-Agent: GAN-Fuzzer\r\n\r\n",
+  "status_code": 200,
+  "response_time": 0.003,
+  "suspicious": false
+}
+2025-04-22 23:12:39,015 - INFO - Starting generalization test with 401 payloads from log D:\MP\http_vulnerability_detector\generated_output\generated_cases.log on http://192.168.25.133:80...
+2025-04-22 23:12:45,121 - INFO - Generalization test completed. 0 suspicious responses detected out of 401.
+2025-04-22 23:12:45,126 - INFO - Results saved to D:\MP\http_vulnerability_detector\generated_output\generalization_results.json
+2025-04-22 23:12:45,126 - INFO - Showing preview of results:
+2025-04-22 23:12:45,126 - INFO - {
+  "index": 0,
+  "payload": "DELETE /T HTTP/1.1\r\nHost: 192.168.25.133\r\nWkRON: \r\ni;GoR;l:: VTZH_\r\n-Aan: ET\r\n\r\n*b",
+  "status_code": 200,
+  "response_time": 0.029,
+  "suspicious": false
+}
+2025-04-22 23:12:45,126 - INFO - {
+  "index": 1,
+  "payload": "DELETE /T HTTP/1.1\r\nHost: 192.168.25.133\r\nWkRON: \r\ni;GoR;l:: VTZH_\r\n-Aan: ET\r\n\r\n*b",
+  "status_code": 200,
+  "response_time": 0.015,
+  "suspicious": false
+}
+2025-04-22 23:12:45,126 - INFO - {
+  "index": 2,
+  "payload": "DELETE /T HTTP/1.1\r\nHost: 192.168.25.133\r\nET: \r\ni;GoR;l:: VTZH_\r\n-Aan: ET\r\n\r\n*b",
+  "status_code": 200,
+  "response_time": 0.017,
+  "suspicious": false
+}
+2025-04-22 23:12:45,126 - INFO - {
+  "index": 3,
+  "payload": "DELETE /T HTTP/1.1\r\nHost: 192.168.25.133\r\nET: \r\ni;GoR;l:: VTZH_\r\n-Aan: ET\r\n\r\n*b",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}
+2025-04-22 23:12:45,126 - INFO - {
+  "index": 4,
+  "payload": "DELETE /T HTTP/1.1\r\nHost: 192.168.25.133\r\nET: \r\ni;GoR;l:: VTZH_\r\n-Aan: ET\r\n\r\n*b",
+  "status_code": 200,
+  "response_time": 0.016,
+  "suspicious": false
+}

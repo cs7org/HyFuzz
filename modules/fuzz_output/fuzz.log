@@ -1,0 +1,725 @@
+[2025-04-18 11:40:29,476]     Info: Web interface can be found at http://localhost:26000
+[2025-04-18 11:40:29,565] [33m[1mTest Case: 1: HTTP GET:[HTTP GET.String1:0][0m
+[2025-04-18 11:40:29,565]     Info: Type: String. Case 1 of 13794 overall.
+[2025-04-18 11:40:29,565]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:29,567]     Info: Connection opened.
+[2025-04-18 11:40:29,567]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:29,567]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:29,567]     Info: Sending 144 bytes...
+[2025-04-18 11:40:29,5674     Info: Sending 144 bytes...
+[2025-04-18 11:40:29,5674     Transmitted 144 bytes: b'!@#$%%^#$%#$@#$%$$@#$%^^**(() /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:29,567]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:29,567]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:29,568]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:29,568]     Info: Closing target connection...
+[2025-04-18 11:40:29,568]     Info: Connection closed.
+[2025-04-18 11:40:29,568]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:29,568]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:29,789] [33m[1mTest Case: 2: HTTP GET:[HTTP GET.String1:1][0m
+[2025-04-18 11:40:29,789]     Info: Type: String. Case 2 of 13794 overall.
+[2025-04-18 11:40:29,789]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:29,791]     Info: Connection opened.
+[2025-04-18 11:40:29,791]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:29,791]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:29,791]     Info: Sending 115 bytes...
+[2025-04-18 11:40:29,7912     Info: Sending 115 bytes...
+[2025-04-18 11:40:29,7912     Transmitted 115 bytes: b' /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:29,791]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:29,791]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:29,791]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:29,791]     Info: Closing target connection...
+[2025-04-18 11:40:29,791]     Info: Connection closed.
+[2025-04-18 11:40:29,791]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:29,791]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:29,998] [33m[1mTest Case: 3: HTTP GET:[HTTP GET.String1:2][0m
+[2025-04-18 11:40:29,998]     Info: Type: String. Case 3 of 13794 overall.
+[2025-04-18 11:40:29,998]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:29,999]     Info: Connection opened.
+[2025-04-18 11:40:29,999]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:29,999]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:29,999]     Info: Sending 124 bytes...
+[2025-04-18 11:40:29,9999     Info: Sending 124 bytes...
+[2025-04-18 11:40:29,9999     Transmitted 124 bytes: b'$(reboot) /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:29,999]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:29,999]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:29,999]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:29,999]     Info: Closing target connection...
+[2025-04-18 11:40:29,999]     Info: Connection closed.
+[2025-04-18 11:40:29,999]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:29,999]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:30,217] [33m[1mTest Case: 4: HTTP GET:[HTTP GET.String1:3][0m
+[2025-04-18 11:40:30,217]     Info: Type: String. Case 4 of 13794 overall.
+[2025-04-18 11:40:30,217]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:30,217]     Info: Connection opened.
+[2025-04-18 11:40:30,217]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:30,217]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:30,217]     Info: Sending 123 bytes...
+[2025-04-18 11:40:30,2190     Info: Sending 123 bytes...
+[2025-04-18 11:40:30,2190     Transmitted 123 bytes: b'$;reboot /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:30,219]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:30,219]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:30,219]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:30,219]     Info: Closing target connection...
+[2025-04-18 11:40:30,219]     Info: Connection closed.
+[2025-04-18 11:40:30,219]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:30,219]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:30,438] [33m[1mTest Case: 5: HTTP GET:[HTTP GET.String1:4][0m
+[2025-04-18 11:40:30,438]     Info: Type: String. Case 5 of 13794 overall.
+[2025-04-18 11:40:30,438]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:30,438]     Info: Connection opened.
+[2025-04-18 11:40:30,438]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:30,438]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:30,438]     Info: Sending 118 bytes...
+[2025-04-18 11:40:30,4386     Info: Sending 118 bytes...
+[2025-04-18 11:40:30,4386     Transmitted 118 bytes: b'%00 /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:30,438]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:30,438]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:30,438]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:30,438]     Info: Closing target connection...
+[2025-04-18 11:40:30,438]     Info: Connection closed.
+[2025-04-18 11:40:30,438]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:30,438]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:30,656] [33m[1mTest Case: 6: HTTP GET:[HTTP GET.String1:5][0m
+[2025-04-18 11:40:30,656]     Info: Type: String. Case 6 of 13794 overall.
+[2025-04-18 11:40:30,656]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:30,656]     Info: Connection opened.
+[2025-04-18 11:40:30,656]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:30,656]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:30,656]     Info: Sending 119 bytes...
+[2025-04-18 11:40:30,6565     Info: Sending 119 bytes...
+[2025-04-18 11:40:30,6565     Transmitted 119 bytes: b'%00/ /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:30,656]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:30,656]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:30,656]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:30,656]     Info: Closing target connection...
+[2025-04-18 11:40:30,656]     Info: Connection closed.
+[2025-04-18 11:40:30,656]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:30,656]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:30,863] [33m[1mTest Case: 7: HTTP GET:[HTTP GET.String1:6][0m
+[2025-04-18 11:40:30,863]     Info: Type: String. Case 7 of 13794 overall.
+[2025-04-18 11:40:30,863]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:30,863]     Info: Connection opened.
+[2025-04-18 11:40:30,863]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:30,863]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:30,863]     Info: Sending 140 bytes...
+[2025-04-18 11:40:30,8631     Info: Sending 140 bytes...
+[2025-04-18 11:40:30,8631     Transmitted 140 bytes: b'%01%02%03%04%0a%0d%0aADSF /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:30,863]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:30,863]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:30,863]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:30,864]     Info: Closing target connection...
+[2025-04-18 11:40:30,864]     Info: Connection closed.
+[2025-04-18 11:40:30,864]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:30,864]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:31,091] [33m[1mTest Case: 8: HTTP GET:[HTTP GET.String1:7][0m
+[2025-04-18 11:40:31,091]     Info: Type: String. Case 8 of 13794 overall.
+[2025-04-18 11:40:31,091]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:31,093]     Info: Connection opened.
+[2025-04-18 11:40:31,093]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:31,093]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:31,093]     Info: Sending 141 bytes...
+[2025-04-18 11:40:31,0935     Info: Sending 141 bytes...
+[2025-04-18 11:40:31,0935     Transmitted 141 bytes: b'%01%02%03@%04%0a%0d%0aADSF /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:31,093]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:31,093]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:31,093]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:31,093]     Info: Closing target connection...
+[2025-04-18 11:40:31,093]     Info: Connection closed.
+[2025-04-18 11:40:31,093]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:31,093]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:31,302] [33m[1mTest Case: 9: HTTP GET:[HTTP GET.String1:8][0m
+[2025-04-18 11:40:31,302]     Info: Type: String. Case 9 of 13794 overall.
+[2025-04-18 11:40:31,302]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:31,302]     Info: Connection opened.
+[2025-04-18 11:40:31,302]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:31,302]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:31,302]     Info: Sending 129 bytes...
+[2025-04-18 11:40:31,3025     Info: Sending 129 bytes...
+[2025-04-18 11:40:31,3025     Transmitted 129 bytes: b'%0a reboot %0a /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:31,302]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:31,302]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:31,304]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:31,304]     Info: Closing target connection...
+[2025-04-18 11:40:31,304]     Info: Connection closed.
+[2025-04-18 11:40:31,304]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:31,304]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:31,522] [33m[1mTest Case: 10: HTTP GET:[HTTP GET.String1:9][0m
+[2025-04-18 11:40:31,522]     Info: Type: String. Case 10 of 13794 overall.
+[2025-04-18 11:40:31,522]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:31,522]     Info: Connection opened.
+[2025-04-18 11:40:31,522]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:31,522]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:31,522]     Info: Sending 124 bytes...
+[2025-04-18 11:40:31,5227     Info: Sending 124 bytes...
+[2025-04-18 11:40:31,5227     Transmitted 124 bytes: b'%0Areboot /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:31,522]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:31,522]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:31,522]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:31,524]     Info: Closing target connection...
+[2025-04-18 11:40:31,524]     Info: Connection closed.
+[2025-04-18 11:40:31,524]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:31,524]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:31,741] [33m[1mTest Case: 11: HTTP GET:[HTTP GET.String1:10][0m
+[2025-04-18 11:40:31,741]     Info: Type: String. Case 11 of 13794 overall.
+[2025-04-18 11:40:31,741]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:31,742]     Info: Connection opened.
+[2025-04-18 11:40:31,742]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:31,742]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:31,742]     Info: Sending 127 bytes...
+[2025-04-18 11:40:31,7428     Info: Sending 127 bytes...
+[2025-04-18 11:40:31,7428     Transmitted 127 bytes: b'%0Areboot%0A /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:31,742]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:31,742]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:31,742]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:31,742]     Info: Closing target connection...
+[2025-04-18 11:40:31,742]     Info: Connection closed.
+[2025-04-18 11:40:31,742]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:31,742]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:31,957] [33m[1mTest Case: 12: HTTP GET:[HTTP GET.String1:11][0m
+[2025-04-18 11:40:31,957]     Info: Type: String. Case 12 of 13794 overall.
+[2025-04-18 11:40:31,957]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:31,957]     Info: Connection opened.
+[2025-04-18 11:40:31,957]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:31,957]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:31,957]     Info: Sending 136 bytes...
+[2025-04-18 11:40:31,9577     Info: Sending 136 bytes...
+[2025-04-18 11:40:31,9577     Transmitted 136 bytes: b"%0DCMD=$'reboot';$CMD /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n"
+
+[2025-04-18 11:40:31,957]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:31,957]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:31,957]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:31,957]     Info: Closing target connection...
+[2025-04-18 11:40:31,959]     Info: Connection closed.
+[2025-04-18 11:40:31,959]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:31,959]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:32,188] [33m[1mTest Case: 13: HTTP GET:[HTTP GET.String1:12][0m
+[2025-04-18 11:40:32,188]     Info: Type: String. Case 13 of 13794 overall.
+[2025-04-18 11:40:32,188]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:32,190]     Info: Connection opened.
+[2025-04-18 11:40:32,190]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:32,190]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:32,190]     Info: Sending 136 bytes...
+[2025-04-18 11:40:32,1900     Info: Sending 136 bytes...
+[2025-04-18 11:40:32,1900     Transmitted 136 bytes: b'%0DCMD=$"reboot";$CMD /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:32,190]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:32,190]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:32,190]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:32,190]     Info: Closing target connection...
+[2025-04-18 11:40:32,190]     Info: Connection closed.
+[2025-04-18 11:40:32,190]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:32,190]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:32,399] [33m[1mTest Case: 14: HTTP GET:[HTTP GET.String1:13][0m
+[2025-04-18 11:40:32,399]     Info: Type: String. Case 14 of 13794 overall.
+[2025-04-18 11:40:32,399]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:32,401]     Info: Connection opened.
+[2025-04-18 11:40:32,401]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:32,401]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:32,401]     Info: Sending 124 bytes...
+[2025-04-18 11:40:32,4011     Info: Sending 124 bytes...
+[2025-04-18 11:40:32,4011     Transmitted 124 bytes: b'%0Dreboot /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:32,401]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:32,401]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:32,401]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:32,401]     Info: Closing target connection...
+[2025-04-18 11:40:32,401]     Info: Connection closed.
+[2025-04-18 11:40:32,401]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:32,401]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:32,619] [33m[1mTest Case: 15: HTTP GET:[HTTP GET.String1:14][0m
+[2025-04-18 11:40:32,619]     Info: Type: String. Case 15 of 13794 overall.
+[2025-04-18 11:40:32,619]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:32,619]     Info: Connection opened.
+[2025-04-18 11:40:32,620]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:32,620]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:32,620]     Info: Sending 127 bytes...
+[2025-04-18 11:40:32,6206     Info: Sending 127 bytes...
+[2025-04-18 11:40:32,6206     Transmitted 127 bytes: b'%0Dreboot%0D /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:32,620]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:32,620]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:32,620]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:32,620]     Info: Closing target connection...
+[2025-04-18 11:40:32,620]     Info: Connection closed.
+[2025-04-18 11:40:32,620]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:32,620]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:32,823] [33m[1mTest Case: 16: HTTP GET:[HTTP GET.String1:15][0m
+[2025-04-18 11:40:32,823]     Info: Type: String. Case 16 of 13794 overall.
+[2025-04-18 11:40:32,823]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:32,825]     Info: Connection opened.
+[2025-04-18 11:40:32,825]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:32,825]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:32,825]     Info: Sending 121 bytes...
+[2025-04-18 11:40:32,8255     Info: Sending 121 bytes...
+[2025-04-18 11:40:32,8255     Transmitted 121 bytes: b'%??%\x00? /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:32,825]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:32,825]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:32,825]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:32,825]     Info: Closing target connection...
+[2025-04-18 11:40:32,825]     Info: Connection closed.
+[2025-04-18 11:40:32,825]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:32,825]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:33,044] [33m[1mTest Case: 17: HTTP GET:[HTTP GET.String1:16][0m
+[2025-04-18 11:40:33,044]     Info: Type: String. Case 17 of 13794 overall.
+[2025-04-18 11:40:33,044]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:33,046]     Info: Connection opened.
+[2025-04-18 11:40:33,046]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:33,046]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:33,046]     Info: Sending 235 bytes...
+[2025-04-18 11:40:33,0462     Info: Sending 235 bytes...
+[2025-04-18 11:40:33,0462     Transmitted 235 bytes: b'%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01?%??%\x01? /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:33,046]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:33,046]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:33,046]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:33,046]     Info: Closing target connection...
+[2025-04-18 11:40:33,046]     Info: Connection closed.
+[2025-04-18 11:40:33,046]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:33,046]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:33,276] [33m[1mTest Case: 18: HTTP GET:[HTTP GET.String1:17][0m
+[2025-04-18 11:40:33,276]     Info: Type: String. Case 18 of 13794 overall.
+[2025-04-18 11:40:33,276]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:33,276]     Info: Connection opened.
+[2025-04-18 11:40:33,276]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:33,276]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:33,276]     Info: Sending 315 bytes...
+[2025-04-18 11:40:33,2766     Info: Sending 315 bytes...
+[2025-04-18 11:40:33,2766     Transmitted 315 bytes: b'%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:33,278]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:33,278]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:33,278]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:33,278]     Info: Closing target connection...
+[2025-04-18 11:40:33,278]     Info: Connection closed.
+[2025-04-18 11:40:33,278]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:33,278]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:33,487] [33m[1mTest Case: 19: HTTP GET:[HTTP GET.String1:18][0m
+[2025-04-18 11:40:33,487]     Info: Type: String. Case 19 of 13794 overall.
+[2025-04-18 11:40:33,487]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:33,487]     Info: Connection opened.
+[2025-04-18 11:40:33,487]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:33,487]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:33,487]     Info: Sending 1115 bytes...
+[2025-04-18 11:40:33,4873     Info: Sending 1115 bytes...
+[2025-04-18 11:40:33,4873     Transmitted 1115 bytes: b'%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:33,488]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:33,488]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:33,488]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:33,488]     Info: Closing target connection...
+[2025-04-18 11:40:33,488]     Info: Connection closed.
+[2025-04-18 11:40:33,488]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:33,488]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:33,706] [33m[1mTest Case: 20: HTTP GET:[HTTP GET.String1:19][0m
+[2025-04-18 11:40:33,706]     Info: Type: String. Case 20 of 13794 overall.
+[2025-04-18 11:40:33,706]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:33,706]     Info: Connection opened.
+[2025-04-18 11:40:33,706]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:33,706]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:33,706]     Info: Sending 315 bytes...
+[2025-04-18 11:40:33,7063     Info: Sending 315 bytes...
+[2025-04-18 11:40:33,7063     Transmitted 315 bytes: b'%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:33,706]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:33,706]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:33,706]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:33,706]     Info: Closing target connection...
+[2025-04-18 11:40:33,706]     Info: Connection closed.
+[2025-04-18 11:40:33,706]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:33,706]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:33,933] [33m[1mTest Case: 21: HTTP GET:[HTTP GET.String1:20][0m
+[2025-04-18 11:40:33,933]     Info: Type: String. Case 21 of 13794 overall.
+[2025-04-18 11:40:33,933]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:33,935]     Info: Connection opened.
+[2025-04-18 11:40:33,935]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:33,935]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:33,935]     Info: Sending 1115 bytes...
+[2025-04-18 11:40:33,9352     Info: Sending 1115 bytes...
+[2025-04-18 11:40:33,9352     Transmitted 1115 bytes: b'%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:33,935]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:33,935]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:33,935]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:33,935]     Info: Closing target connection...
+[2025-04-18 11:40:33,935]     Info: Connection closed.
+[2025-04-18 11:40:33,935]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:33,935]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:34,146] [33m[1mTest Case: 22: HTTP GET:[HTTP GET.String1:21][0m
+[2025-04-18 11:40:34,146]     Info: Type: String. Case 22 of 13794 overall.
+[2025-04-18 11:40:34,146]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:34,147]     Info: Connection opened.
+[2025-04-18 11:40:34,147]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:34,147]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:34,147]     Info: Sending 121 bytes...
+[2025-04-18 11:40:34,1473     Info: Sending 121 bytes...
+[2025-04-18 11:40:34,1473     Transmitted 121 bytes: b'%u0000 /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:34,147]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:34,147]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:34,147]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:34,147]     Info: Closing target connection...
+[2025-04-18 11:40:34,147]     Info: Connection closed.
+[2025-04-18 11:40:34,147]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:34,147]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:34,366] [33m[1mTest Case: 23: HTTP GET:[HTTP GET.String1:22][0m
+[2025-04-18 11:40:34,366]     Info: Type: String. Case 23 of 13794 overall.
+[2025-04-18 11:40:34,366]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:34,366]     Info: Connection opened.
+[2025-04-18 11:40:34,366]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:34,366]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:34,366]     Info: Sending 125 bytes...
+[2025-04-18 11:40:34,3661     Info: Sending 125 bytes...
+[2025-04-18 11:40:34,3661     Transmitted 125 bytes: b'& reboot & /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:34,366]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:34,366]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:34,366]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:34,367]     Info: Closing target connection...
+[2025-04-18 11:40:34,367]     Info: Connection closed.
+[2025-04-18 11:40:34,367]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:34,367]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:34,586] [33m[1mTest Case: 24: HTTP GET:[HTTP GET.String1:23][0m
+[2025-04-18 11:40:34,586]     Info: Type: String. Case 24 of 13794 overall.
+[2025-04-18 11:40:34,586]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:34,586]     Info: Connection opened.
+[2025-04-18 11:40:34,586]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:34,586]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:34,586]     Info: Sending 123 bytes...
+[2025-04-18 11:40:34,5864     Info: Sending 123 bytes...
+[2025-04-18 11:40:34,5864     Transmitted 123 bytes: b'& reboot /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:34,588]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:34,588]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:34,588]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:34,588]     Info: Closing target connection...
+[2025-04-18 11:40:34,588]     Info: Connection closed.
+[2025-04-18 11:40:34,588]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:34,588]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:34,817] [33m[1mTest Case: 25: HTTP GET:[HTTP GET.String1:24][0m
+[2025-04-18 11:40:34,817]     Info: Type: String. Case 25 of 13794 overall.
+[2025-04-18 11:40:34,817]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:34,818]     Info: Connection opened.
+[2025-04-18 11:40:34,818]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:34,818]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:34,818]     Info: Sending 135 bytes...
+[2025-04-18 11:40:34,8186     Info: Sending 135 bytes...
+[2025-04-18 11:40:34,8186     Transmitted 135 bytes: b"&&CMD=$'reboot';$CMD /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n"
+
+[2025-04-18 11:40:34,818]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:34,818]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:34,818]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:34,818]     Info: Closing target connection...
+[2025-04-18 11:40:34,819]     Info: Connection closed.
+[2025-04-18 11:40:34,819]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:34,819]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:35,024] [33m[1mTest Case: 26: HTTP GET:[HTTP GET.String1:25][0m
+[2025-04-18 11:40:35,024]     Info: Type: String. Case 26 of 13794 overall.
+[2025-04-18 11:40:35,024]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:35,025]     Info: Connection opened.
+[2025-04-18 11:40:35,025]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:35,025]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:35,025]     Info: Sending 135 bytes...
+[2025-04-18 11:40:35,0259     Info: Sending 135 bytes...
+[2025-04-18 11:40:35,0259     Transmitted 135 bytes: b'&&CMD=$"reboot";$CMD /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:35,025]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:35,025]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:35,025]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:35,025]     Info: Closing target connection...
+[2025-04-18 11:40:35,026]     Info: Connection closed.
+[2025-04-18 11:40:35,026]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:35,026]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:35,243] [33m[1mTest Case: 27: HTTP GET:[HTTP GET.String1:26][0m
+[2025-04-18 11:40:35,243]     Info: Type: String. Case 27 of 13794 overall.
+[2025-04-18 11:40:35,243]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:35,245]     Info: Connection opened.
+[2025-04-18 11:40:35,245]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:35,245]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:35,245]     Info: Sending 123 bytes...
+[2025-04-18 11:40:35,2456     Info: Sending 123 bytes...
+[2025-04-18 11:40:35,2456     Transmitted 123 bytes: b'&&reboot /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:35,245]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:35,245]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:35,245]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:35,245]     Info: Closing target connection...
+[2025-04-18 11:40:35,245]     Info: Connection closed.
+[2025-04-18 11:40:35,245]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:35,245]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:35,474] [33m[1mTest Case: 28: HTTP GET:[HTTP GET.String1:27][0m
+[2025-04-18 11:40:35,474]     Info: Type: String. Case 28 of 13794 overall.
+[2025-04-18 11:40:35,474]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:35,475]     Info: Connection opened.
+[2025-04-18 11:40:35,475]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:35,475]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:35,475]     Info: Sending 125 bytes...
+[2025-04-18 11:40:35,4755     Info: Sending 125 bytes...
+[2025-04-18 11:40:35,4755     Transmitted 125 bytes: b'&&reboot&& /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:35,475]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:35,475]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:35,475]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:35,475]     Info: Closing target connection...
+[2025-04-18 11:40:35,475]     Info: Connection closed.
+[2025-04-18 11:40:35,475]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:35,475]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:35,683] [33m[1mTest Case: 29: HTTP GET:[HTTP GET.String1:28][0m
+[2025-04-18 11:40:35,683]     Info: Type: String. Case 29 of 13794 overall.
+[2025-04-18 11:40:35,683]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:35,683]     Info: Connection opened.
+[2025-04-18 11:40:35,683]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:35,683]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:35,685]     Info: Sending 134 bytes...
+[2025-04-18 11:40:35,6855     Info: Sending 134 bytes...
+[2025-04-18 11:40:35,6855     Transmitted 134 bytes: b"&CMD=$'reboot';$CMD /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n"
+
+[2025-04-18 11:40:35,685]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:35,685]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:35,685]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:35,685]     Info: Closing target connection...
+[2025-04-18 11:40:35,685]     Info: Connection closed.
+[2025-04-18 11:40:35,685]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:35,685]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:35,904] [33m[1mTest Case: 30: HTTP GET:[HTTP GET.String1:29][0m
+[2025-04-18 11:40:35,904]     Info: Type: String. Case 30 of 13794 overall.
+[2025-04-18 11:40:35,904]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:35,904]     Info: Connection opened.
+[2025-04-18 11:40:35,904]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:35,904]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:35,904]     Info: Sending 134 bytes...
+[2025-04-18 11:40:35,9046     Info: Sending 134 bytes...
+[2025-04-18 11:40:35,9046     Transmitted 134 bytes: b'&CMD=$"reboot";$CMD /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:35,904]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:35,904]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:35,904]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:35,904]     Info: Closing target connection...
+[2025-04-18 11:40:35,904]     Info: Connection closed.
+[2025-04-18 11:40:35,904]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:35,904]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:36,110] [33m[1mTest Case: 31: HTTP GET:[HTTP GET.String1:30][0m
+[2025-04-18 11:40:36,110]     Info: Type: String. Case 31 of 13794 overall.
+[2025-04-18 11:40:36,110]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:36,112]     Info: Connection opened.
+[2025-04-18 11:40:36,112]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:36,112]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:36,112]     Info: Sending 122 bytes...
+[2025-04-18 11:40:36,1120     Info: Sending 122 bytes...
+[2025-04-18 11:40:36,1120     Transmitted 122 bytes: b'&reboot /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:36,112]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:36,112]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:36,112]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:36,112]     Info: Closing target connection...
+[2025-04-18 11:40:36,112]     Info: Connection closed.
+[2025-04-18 11:40:36,112]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:36,113]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:36,328] [33m[1mTest Case: 32: HTTP GET:[HTTP GET.String1:31][0m
+[2025-04-18 11:40:36,328]     Info: Type: String. Case 32 of 13794 overall.
+[2025-04-18 11:40:36,328]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:36,328]     Info: Connection opened.
+[2025-04-18 11:40:36,328]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:36,328]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:36,328]     Info: Sending 123 bytes...
+[2025-04-18 11:40:36,3288     Info: Sending 123 bytes...
+[2025-04-18 11:40:36,3288     Transmitted 123 bytes: b'&reboot& /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:36,328]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:36,330]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:36,330]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:36,330]     Info: Closing target connection...
+[2025-04-18 11:40:36,330]     Info: Connection closed.
+[2025-04-18 11:40:36,330]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:36,330]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:36,545] [33m[1mTest Case: 33: HTTP GET:[HTTP GET.String1:32][0m
+[2025-04-18 11:40:36,545]     Info: Type: String. Case 33 of 13794 overall.
+[2025-04-18 11:40:36,545]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:36,547]     Info: Connection opened.
+[2025-04-18 11:40:36,547]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:36,547]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:36,547]     Info: Sending 123 bytes...
+[2025-04-18 11:40:36,5474     Info: Sending 123 bytes...
+[2025-04-18 11:40:36,5474     Transmitted 123 bytes: b"'reboot' /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n"
+
+[2025-04-18 11:40:36,547]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:36,547]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:36,547]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:36,547]     Info: Closing target connection...
+[2025-04-18 11:40:36,547]     Info: Connection closed.
+[2025-04-18 11:40:36,548]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:36,548]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:36,775] [33m[1mTest Case: 34: HTTP GET:[HTTP GET.String1:33][0m
+[2025-04-18 11:40:36,775]     Info: Type: String. Case 34 of 13794 overall.
+[2025-04-18 11:40:36,775]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:36,777]     Info: Connection opened.
+[2025-04-18 11:40:36,777]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:36,777]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:36,777]     Info: Sending 154 bytes...
+[2025-04-18 11:40:36,7775     Info: Sending 154 bytes...
+[2025-04-18 11:40:36,7775     Transmitted 154 bytes: b'..:..:..:..:..:..:..:..:..:..:..:..:..: /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:36,777]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:36,777]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:36,777]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:36,777]     Info: Closing target connection...
+[2025-04-18 11:40:36,777]     Info: Connection closed.
+[2025-04-18 11:40:36,777]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:36,777]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:36,983] [33m[1mTest Case: 35: HTTP GET:[HTTP GET.String1:34][0m
+[2025-04-18 11:40:36,983]     Info: Type: String. Case 35 of 13794 overall.
+[2025-04-18 11:40:36,983]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:36,983]     Info: Connection opened.
+[2025-04-18 11:40:36,983]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:36,983]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:36,983]     Info: Sending 120 bytes...
+[2025-04-18 11:40:36,9834     Info: Sending 120 bytes...
+[2025-04-18 11:40:36,9834     Transmitted 120 bytes: b'/%00/ /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:36,983]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:36,983]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:36,983]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:36,983]     Info: Closing target connection...
+[2025-04-18 11:40:36,984]     Info: Connection closed.
+[2025-04-18 11:40:36,984]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:36,984]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:37,201] [33m[1mTest Case: 36: HTTP GET:[HTTP GET.String1:35][0m
+[2025-04-18 11:40:37,203]     Info: Type: String. Case 36 of 13794 overall.
+[2025-04-18 11:40:37,203]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:37,203]     Info: Connection opened.
+[2025-04-18 11:40:37,203]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:37,203]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:37,203]     Info: Sending 10115 bytes...
+[2025-04-18 11:40:37,2034     Info: Sending 10115 bytes...
+[2025-04-18 11:40:37,2034     Transmitted 10115 bytes: b'/./././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././. /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:37,206]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:37,206]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:37,206]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:37,206]     Info: Closing target connection...
+[2025-04-18 11:40:37,206]     Info: Connection closed.
+[2025-04-18 11:40:37,206]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:37,206]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:37,432] [33m[1mTest Case: 37: HTTP GET:[HTTP GET.String1:36][0m
+[2025-04-18 11:40:37,432]     Info: Type: String. Case 37 of 13794 overall.
+[2025-04-18 11:40:37,432]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:37,433]     Info: Connection opened.
+[2025-04-18 11:40:37,433]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:37,433]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:37,433]     Info: Sending 5122 bytes...
+[2025-04-18 11:40:37,4338     Info: Sending 5122 bytes...
+[2025-04-18 11:40:37,4338     Transmitted 5122 bytes: b'/.../BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB\x00\x00 /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:37,436]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:37,436]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:37,436]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:37,436]     Info: Closing target connection...
+[2025-04-18 11:40:37,436]     Info: Connection closed.
+[2025-04-18 11:40:37,436]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:37,436]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:37,644] [33m[1mTest Case: 38: HTTP GET:[HTTP GET.String1:37][0m
+[2025-04-18 11:40:37,644]     Info: Type: String. Case 38 of 13794 overall.
+[2025-04-18 11:40:37,644]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:37,644]     Info: Connection opened.
+[2025-04-18 11:40:37,644]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:37,644]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:37,644]     Info: Sending 156 bytes...
+[2025-04-18 11:40:37,6444     Info: Sending 156 bytes...
+[2025-04-18 11:40:37,6444     Transmitted 156 bytes: b'/.../.../.../.../.../.../.../.../.../.../ /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:37,644]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:37,644]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:37,644]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:37,644]     Info: Closing target connection...
+[2025-04-18 11:40:37,646]     Info: Connection closed.
+[2025-04-18 11:40:37,646]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:37,646]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:37,863] [33m[1mTest Case: 39: HTTP GET:[HTTP GET.String1:38][0m
+[2025-04-18 11:40:37,863]     Info: Type: String. Case 39 of 13794 overall.
+[2025-04-18 11:40:37,863]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:37,864]     Info: Connection opened.
+[2025-04-18 11:40:37,864]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:37,864]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:37,864]     Info: Sending 160 bytes...
+[2025-04-18 11:40:37,8647     Info: Sending 160 bytes...
+[2025-04-18 11:40:37,8647     Transmitted 160 bytes: b'/../../../../../../../../../../../../boot.ini /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:37,864]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:37,864]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:37,864]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:37,864]     Info: Closing target connection...
+[2025-04-18 11:40:37,864]     Info: Connection closed.
+[2025-04-18 11:40:37,864]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:37,864]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:38,081] [33m[1mTest Case: 40: HTTP GET:[HTTP GET.String1:39][0m
+[2025-04-18 11:40:38,081]     Info: Type: String. Case 40 of 13794 overall.
+[2025-04-18 11:40:38,081]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:38,083]     Info: Connection opened.
+[2025-04-18 11:40:38,083]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:38,083]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:38,083]     Info: Sending 162 bytes...
+[2025-04-18 11:40:38,0835     Info: Sending 162 bytes...
+[2025-04-18 11:40:38,0835     Transmitted 162 bytes: b'/../../../../../../../../../../../../etc/passwd /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:38,083]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:38,083]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:38,083]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:38,083]     Info: Closing target connection...
+[2025-04-18 11:40:38,083]     Info: Connection closed.
+[2025-04-18 11:40:38,083]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:38,083]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:38,301] [33m[1mTest Case: 41: HTTP GET:[HTTP GET.String1:40][0m
+[2025-04-18 11:40:38,301]     Info: Type: String. Case 41 of 13794 overall.
+[2025-04-18 11:40:38,301]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:38,301]     Info: Connection opened.
+[2025-04-18 11:40:38,301]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:38,301]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:38,301]     Info: Sending 5121 bytes...
+[2025-04-18 11:40:38,3012     Info: Sending 5121 bytes...
+[2025-04-18 11:40:38,3012     Transmitted 5121 bytes: b'/.:/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\x00\x00 /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:38,306]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:38,306]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:38,306]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:38,306]     Info: Closing target connection...
+[2025-04-18 11:40:38,306]     Info: Connection closed.
+[2025-04-18 11:40:38,306]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:38,306]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:38,532] [33m[1mTest Case: 42: HTTP GET:[HTTP GET.String1:41][0m
+[2025-04-18 11:40:38,532]     Info: Type: String. Case 42 of 13794 overall.
+[2025-04-18 11:40:38,532]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:38,534]     Info: Connection opened.
+[2025-04-18 11:40:38,534]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:38,534]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:38,534]     Info: Sending 10115 bytes...
+[2025-04-18 11:40:38,5340     Info: Sending 10115 bytes...
+[2025-04-18 11:40:38,5340     Transmitted 10115 bytes: b'/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\ /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+
+[2025-04-18 11:40:38,535]   [35m[1mTest Step: Contact target monitors[0m
+[2025-04-18 11:40:38,535]   [35m[1mTest Step: Cleaning up connections from callbacks[0m
+[2025-04-18 11:40:38,535]       [32m[1mCheck OK: No crash detected.[0m
+[2025-04-18 11:40:38,535]     Info: Closing target connection...
+[2025-04-18 11:40:38,535]     Info: Connection closed.
+[2025-04-18 11:40:38,535]   [35m[1mTest Step: Sleep between tests.[0m
+[2025-04-18 11:40:38,535]     Info: sleeping for 0.200000 seconds
+[2025-04-18 11:40:38,741] [33m[1mTest Case: 43: HTTP GET:[HTTP GET.String1:42][0m
+[2025-04-18 11:40:38,742]     Info: Type: String. Case 43 of 13794 overall.
+[2025-04-18 11:40:38,742]     Info: Opening target connection (192.168.25.133:80)...
+[2025-04-18 11:40:38,742]     Info: Connection opened.
+[2025-04-18 11:40:38,742]   [35m[1mTest Step: Monitor CallbackMonitor#2546835471520[pre=[],post=[],restart=[],post_start_target=[]].pre_send()[0m
+[2025-04-18 11:40:38,742]   [35m[1mTest Step: Fuzzing Node 'HTTP GET'[0m
+[2025-04-18 11:40:38,742]     Info: Sending 134 bytes...
+[2025-04-18 11:40:38,7428     Info: Sending 134 bytes...
+[2025-04-18 11:40:38,7428     Transmitted 134 bytes: b'/index.html|reboot| /index.html HTTP/1.1\r\nHost: 192.168.25.133\r\nUser-Agent: Mozilla/5.0\r\nAccept: text/html\r\nConnection: keep-alive\r\n\r\n'
+

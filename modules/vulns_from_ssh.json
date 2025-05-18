@@ -1,0 +1,1835 @@
+{
+    "Nginx": {
+        "unknown": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Exploit Title"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx (Debian Based Distros + Gentoo) - 'logr"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "PHP-FPM + Nginx - Remote Code Execution"
+            }
+        ],
+        "0.6.36": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.6.36 - Directory Traversal"
+            }
+        ],
+        "0.6.38": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.6.38 - Heap Corruption"
+            }
+        ],
+        "0.6": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.6.x - Arbitrary Code Execution NullBy"
+            }
+        ],
+        "0.7.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.7.0 < 0.7.61 / 0.6.0 < 0.6.38 / 0.5.0"
+            }
+        ],
+        "0.7.61": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.7.61 - WebDAV Directory Traversal"
+            }
+        ],
+        "0.7.64": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.7.64 - Terminal Escape Sequence in Lo"
+            }
+        ],
+        "0.7.65": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.7.65/0.8.39 (dev) - Source Disclosure"
+            }
+        ],
+        "0.8.36": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 0.8.36 - Source Disclosure / Denial of"
+            }
+        ],
+        "1.1.17": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 1.1.17 - URI Processing SecURIty Bypass"
+            }
+        ],
+        "1.20.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 1.20.0 - Denial of Service (DOS)"
+            }
+        ],
+        "1.3.9": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 1.3.9 < 1.4.0 - Chuncked Encoding Stack"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 1.3.9 < 1.4.0 - Denial of Service (PoC)"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 1.3.9/1.4.0 (x86) - Brute Force"
+            }
+        ],
+        "1.4.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Nginx 1.4.0 (Generic Linux x64) - Remote Over"
+            }
+        ]
+    },
+    "Apache": {
+        "unknown": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Exploit Title"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache (Windows x86) - Chunked Encoding (Meta"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache - Arbitrary Long HTTP Headers (Denial"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache - Arbitrary Long HTTP Headers Denial o"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache - Denial of Service"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache - httpOnly Cookie Disclosure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache - Remote Memory Exhaustion (Denial of"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.x - Memory Leak"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache APR - Hash Collision Denial of Service"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Axis2 1.x - '/axis2/axis2-admin' Sessi"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Axis2 Administration Console - (Authen"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Commons FileUpload and Apache Tomcat -"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Continuum - Arbitrary Command Executio"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB - Arbitrary Command Execution"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Httpd mod_proxy - Error Page Cross-Sit"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Httpd mod_rewrite - Open Redirects"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache JackRabbit - WebDAV XML External Entit"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Jetspeed - Arbitrary File Upload (Meta"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Libcloud Digital Ocean API - Local Inf"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Log4j 2 - Remote Code Execution (RCE)"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Mod_Auth_OpenID - Session Stealing"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_cgi - 'Shellshock' Remote Command"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_dav / svn - Remote Denial of Servi"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_perl - 'Apache::Status' / 'Apache2"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_proxy - Reverse Proxy Exposure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_proxy_cluster - Stored XSS"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_rewrite (Windows x86) - Off-by-One"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_rewrite - LDAP protocol Buffer Ove"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_session_crypto - Padding Oracle"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_wsgi - Information Disclosure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache MyFaces - 'ln' Information Disclosure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz - Admin Creator"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz - Multiple Cross-Site Scripting"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz - Remote Execution (via SQL Exec"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Roller - OGNL Injection (Metasploit)"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Shindig - XML External Entity Informat"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Shiro - Directory Traversal"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Sling - Denial of Service"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Solr - Remote Code Execution via Veloc"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Spark - (Unauthenticated) Command Exec"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - 'ParametersInterceptor' Remot"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - ClassLoader Manipulation Remo"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - Developer Mode OGNL Execution"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - Dynamic Method Invocation Rem"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - includeParams Remote Code Exe"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - Multiple Persistent Cross-Sit"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - OGNL Expression Injection"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - REST Plugin With Dynamic Meth"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts - REST Plugin With Dynamic Meth"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2 - DefaultActionMapper Prefixe"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2 - DefaultActionMapper Prefixe"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2 - Namespace Redirect OGNL Inj"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2 - Skill Name Remote Code Exec"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2 - Struts 1 Plugin Showcase OG"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Subversion - Remote Denial of Service"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache suEXEC - Information Disclosure / Priv"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat (Windows) - 'runtime.getRuntime"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - 'WebDAV' Remote File Disclosu"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - Account Scanner / 'PUT' Reque"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - AJP 'Ghostcat File Read/Inclu"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - AJP 'Ghostcat' File Read/Incl"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - CGIServlet enableCmdLineArgum"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - Cookie Quote Handling Remote"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - Form Authentication 'Username"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat - WebDAV SSL Remote File Disclo"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.x - Null Byte Directory / Fil"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3/4 - 'DefaultServlet' File Dis"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3/4 - JSP Engine Denial of Serv"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 5 - Information Disclosure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6/7/8/9 - Information Disclosur"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 8/7/6 (Debian-Based Distros) -"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 8/7/6 (RedHat Based Distros) -"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat Connector mod_jk - 'exec-shield"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat Manager - Application Deployer"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat Manager - Application Upload (A"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat/JBoss EJBInvokerServlet / JMXIn"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "AWStats 6.x - Apache Tomcat Configuration Fil"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Azure Apache Ambari 2302250400 - Spoofing"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Bea Weblogic Apache Connector - Code Executio"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Joomla! Component com_intuit - Apache Directo"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Oracle Weblogic Apache Connector - POST Buffe"
+            }
+        ],
+        "5.3.12": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache + PHP < 5.3.12 / < 5.4.2 - cgi-bin Rem"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache + PHP < 5.3.12 / < 5.4.2 - Remote Code"
+            }
+        ],
+        "0.8": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 0.8.x/1.0.x / NCSA HTTPd 1.x - 'test-c"
+            }
+        ],
+        "1.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.0/1.2/1.3 - Server Address Disclosur"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Archiva 1.0 < 1.3.1 - Cross-Site Reque"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache AXIS 1.0 - Non-Existent WSDL Path Info"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Geronimo 1.0 - Error Page Cross-Site S"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat / Geronimo 1.0 - 'Sample Script"
+            }
+        ],
+        "1.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.1 / NCSA HTTPd 1.5.2 / Netscape Serv"
+            }
+        ],
+        "1.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.2 - Denial of Service"
+            }
+        ],
+        "1.2.5": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.2.5/1.3.1 / UnityMail 2.0 - MIME Hea"
+            }
+        ],
+        "1.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3 + PHP 3 - File Disclosure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3 - Artificially Long Slash Path Dir"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3 - Artificially Long Slash Path Dir"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3 - Artificially Long Slash Path Dir"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3 - Artificially Long Slash Path Dir"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3 - Directory Index Disclosure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.x + Tomcat 4.0.x/4.1.x mod_jk - Ch"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.x - HTDigest Realm Command Line Ar"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.x - HTDigest Realm Command Line Ar"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.x < 2.0.48 mod_userdir - Remote Us"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.x mod_include - Local Buffer Overf"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.x mod_mylo - Remote Code Execution"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3/2.0.x - Server Side Include Cross-"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Cygwin 1.3.x/2.0.x - Directory Travers"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Spark Cluster 1.3.x - Arbitrary Code E"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Win32 1.3.x/2.0.x - Batch File Remote"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "NCSA 1.3/1.4.x/1.5 / Apache HTTPd 0.8.11/0.8."
+            }
+        ],
+        "1.3.12": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.12 - WebDAV Directory Listings"
+            }
+        ],
+        "1.3.14": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.14 - Mac File Protection Bypass"
+            }
+        ],
+        "1.3.20": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.20 (Win32) - 'PHP.exe' Remote File"
+            }
+        ],
+        "1.3.31": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.31 mod_include - Local Buffer Over"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "htpasswd Apache 1.3.31 - Local Overflow"
+            }
+        ],
+        "1.3.34": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.34/1.3.33 (Ubuntu / Debian) - CGI"
+            }
+        ],
+        "1.3.35": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.35/2.0.58/2.2.2 - Arbitrary HTTP R"
+            }
+        ],
+        "1.3.6": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.3.6/1.3.9/1.3.11/1.3.12/1.3.20 - Roo"
+            }
+        ],
+        "1.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.4/2.2.x - APR 'apr_fnmatch()' Denial"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Axis 1.4 - Remote Code Execution"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache JackRabbit 1.4/1.5 Content Repository"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache JackRabbit 1.4/1.5 Content Repository"
+            }
+        ],
+        "2.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.x/2.0.x - Chunked-Encoding Memory Co"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 1.x/2.0.x - Chunked-Encoding Memory Co"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0 - Encoded Backslash Directory Trav"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0 - Full Path Disclosure"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0 mod_jk2 2.0.2 (Windows x86) - Remo"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_ssl 2.0.x - Remote Denial of Servi"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.0 - 'XSLTResult.java' Arbitra"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Web Server 2.0.x - MS-DOS Device Name"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Cobalt RaQ 2.0/3.0 - Apache .htaccess Disclos"
+            }
+        ],
+        "2.0.39": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.39/40 - Oversized STDERR Buffer De"
+            }
+        ],
+        "2.0.44": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.44 (Linux) - Remote Denial of Serv"
+            }
+        ],
+        "2.0.45": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.45 - 'APR' Crash"
+            }
+        ],
+        "2.0.49": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.49 - Arbitrary Long HTTP Headers D"
+            }
+        ],
+        "2.0.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.4x mod_perl - File Descriptor Leak"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.4x mod_php - File Descriptor Leaka"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.4x mod_php - File Descriptor Leaka"
+            }
+        ],
+        "2.0.52": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.52 - GET Denial of Service"
+            }
+        ],
+        "2.0.58": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.0.58 mod_rewrite (Windows 2003) - Re"
+            }
+        ],
+        "2.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2 (Windows) - Local Denial of Servic"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2 - Scoreboard Invalid Free On Shutd"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache James Server 2.2 - SMTP Denial of Serv"
+            }
+        ],
+        "2.2.14": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2.14 mod_isapi - Dangling Pointer Re"
+            }
+        ],
+        "2.2.15": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2.15 mod_proxy - Reverse Proxy Secur"
+            }
+        ],
+        "2.2.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2.2 - CGI Script Source Code Informa"
+            }
+        ],
+        "2.2.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2.4 - 413 Error HTTP Request Method"
+            }
+        ],
+        "2.2.6": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2.6 (Windows) - Share PHP File Exten"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.2.6 mod_negotiation - HTML Injection"
+            }
+        ],
+        "2.4.17": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.4.17 - Denial of Service"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.4.17 < 2.4.38 - 'apache2ctl graceful"
+            }
+        ],
+        "2.4.23": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.4.23 mod_http2 - Denial of Service"
+            }
+        ],
+        "2.4.7": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.4.7 + PHP 7.0.2 - 'openssl_seal()' U"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.4.7 mod_status - Scoreboard Handling"
+            }
+        ],
+        "2.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 2.4.x - Buffer Overflow"
+            }
+        ],
+        "7.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache 7.0.x mod_proxy - Reverse Proxy Securi"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "RedHat Linux 7.0 Apache - Remote Username Enu"
+            }
+        ],
+        "1.3.37": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache < 1.3.37/2.0.59/2.2.3 mod_rewrite - Re"
+            }
+        ],
+        "2.0.64": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache < 2.0.64 / < 2.2.21 mod_setenvif - Int"
+            }
+        ],
+        "2.2.34": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache < 2.2.34 / < 2.4.27 - OPTIONS Memory L"
+            }
+        ],
+        "5.11.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache ActiveMQ 5.11.1/5.13.2 - Directory Tra"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache ActiveMQ 5.x-5.11.1 - Directory Traver"
+            }
+        ],
+        "5.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache ActiveMQ 5.2/5.3 - Source Code Informa"
+            }
+        ],
+        "5.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache ActiveMQ 5.3 - 'admin/queueBrowse' Cro"
+            }
+        ],
+        "1.10.10": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Airflow 1.10.10 - 'Example Dag' Remote"
+            }
+        ],
+        "2.12.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache APISIX 2.12.1 - Remote Code Execution"
+            }
+        ],
+        "1.3.9": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Archiva 1.3.9 - Multiple Cross-Site Re"
+            }
+        ],
+        "1.4.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Axis2 1.4.1 - Local File Inclusion"
+            }
+        ],
+        "2.14": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache cocoon 2.14/2.2 - Directory Traversal"
+            }
+        ],
+        "1.4.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Continuum 1.4.2 - Multiple Vulnerabili"
+            }
+        ],
+        "1.5.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB 1.5.0 - 'uuids' Denial of Serv"
+            }
+        ],
+        "1.7.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB 1.7.0 / 2.x < 2.1.1 - Remote P"
+            }
+        ],
+        "2.0.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB 2.0.0 - Local Privilege Escala"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache JackRabbit 2.0.0 - webapp XPath Inject"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.0.0 < 2.2.1.1 - XWork 's:subm"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts2 2.0.0 < 2.3.15 - Prefixed Para"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Superset 2.0.0 - Authentication Bypass"
+            }
+        ],
+        "2.3.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB 2.3.0 - Cross-Site Scripting"
+            }
+        ],
+        "2.3.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB 2.3.1 - Cross-Site Request For"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2 < 2.3.1 - Multiple Vulnerabil"
+            }
+        ],
+        "3.2.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB 3.2.1 - Remote Code Execution"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.2.1 - 404 Error Page Cross-Si"
+            }
+        ],
+        "2.1.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CouchDB < 2.1.0 - Remote Code Executio"
+            }
+        ],
+        "2.5.10": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache CXF < 2.5.10/2.6.7/2.7.4 - Denial of S"
+            }
+        ],
+        "1.11.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Flink 1.11.0 - Unauthenticated Arbitra"
+            }
+        ],
+        "1.9": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Flink 1.9.x - File Upload RCE (Unauthe"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OpenMeetings 1.9.x < 3.1.0 - '.ZIP' Fi"
+            }
+        ],
+        "2.1.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Geronimo 2.1.3 - Multiple Directory Tr"
+            }
+        ],
+        "2.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Geronimo 2.1.x - '/console/portal/' UR"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Geronimo 2.1.x - '/console/portal/Serv"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Geronimo 2.1.x - Cross-Site Request Fo"
+            }
+        ],
+        "2.4.49": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache HTTP Server 2.4.49 - Path Traversal &"
+            }
+        ],
+        "2.4.50": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache HTTP Server 2.4.50 - Path Traversal &"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache HTTP Server 2.4.50 - Remote Code Execu"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache HTTP Server 2.4.50 - Remote Code Execu"
+            }
+        ],
+        "2.3.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache James Server 2.3.2 - Insecure User Cre"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache James Server 2.3.2 - Remote Command Ex"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache James Server 2.3.2 - Remote Command Ex"
+            }
+        ],
+        "2.14.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Log4j2 2.14.1 - Information Disclosure"
+            }
+        ],
+        "2.0.13": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Mina 2.0.13 - Remote Command Execution"
+            }
+        ],
+        "1.0.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Mod_Access_Referer 1.0.2 - Null Pointe"
+            }
+        ],
+        "1.2.26": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_gzip (with debug_mode) 1.2.26.1a -"
+            }
+        ],
+        "1.2.19": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_jk 1.2.19 (Windows x86) - Remote B"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_jk 1.2.19/1.2.20 - Remote Buffer O"
+            }
+        ],
+        "2.8": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_ssl 2.8.x - Off-by-One HTAccess Bu"
+            }
+        ],
+        "2.8.7": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_ssl < 2.8.7 OpenSSL - 'OpenFuck.c'"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_ssl < 2.8.7 OpenSSL - 'OpenFuckV2."
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_ssl < 2.8.7 OpenSSL - 'OpenFuckV2."
+            }
+        ],
+        "0.9.6": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache mod_ssl OpenSSL < 0.9.6d / < 0.9.7-bet"
+            }
+        ],
+        "1.1.5": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache MyFaces Tomahawk JSF Framework 1.1.5 -"
+            }
+        ],
+        "10.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz 10.4.x - Multiple Cross-Site Scr"
+            }
+        ],
+        "16.11.04": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz 16.11.04 - XML External Entity I"
+            }
+        ],
+        "16.11.05": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz 16.11.05 - Cross-Site Scripting"
+            }
+        ],
+        "17.12.03": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz 17.12.03 - Cross-Site Request Fo"
+            }
+        ],
+        "18.12.12": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OFBiz 18.12.12 - Directory Traversal"
+            }
+        ],
+        "4.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Olingo OData 4.0 - XML External Entity"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 4.0.x - Non-HTTP Request Denial"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 4.0/4.1 - Servlet Full Path Dis"
+            }
+        ],
+        "5.0.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache OpenMeetings 5.0.0 - 'hostname' Denial"
+            }
+        ],
+        "3.0.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Pluto 3.0.0 / 3.0.1 - Persistent Cross"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Portals Pluto 3.0.0 - Remote Code Exec"
+            }
+        ],
+        "0.11": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Rave 0.11 < 0.20 - User Information Di"
+            }
+        ],
+        "5.0.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Roller 5.0.3 - XML External Entity Inj"
+            }
+        ],
+        "1.2.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Shiro 1.2.4 - Cookie RememberME Deseri"
+            }
+        ],
+        "2.3.6": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Sling Framework (Adobe AEM) 2.3.6 - In"
+            }
+        ],
+        "7.0.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Solr 7.0.1 - XML External Entity Expan"
+            }
+        ],
+        "8.2.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Solr 8.2.0 - Remote Code Execution"
+            }
+        ],
+        "0.3.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache SpamAssassin Milter Plugin 0.3.1 - Rem"
+            }
+        ],
+        "1.2.7": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 1.2.7 - Error Response Cross-Si"
+            }
+        ],
+        "2.0.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.0.1 < 2.3.33 / 2.5 < 2.5.10 -"
+            }
+        ],
+        "2.0.9": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.0.9/2.1.8 - Session Tampering"
+            }
+        ],
+        "2.2.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.2.1.1 - Remote Command Execut"
+            }
+        ],
+        "2.2.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.2.3 - Multiple Open Redirecti"
+            }
+        ],
+        "2.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.3 < 2.3.34 / 2.5 < 2.5.16 - R"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.3 < 2.3.34 / 2.5 < 2.5.16 - R"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.3.x Showcase - Remote Code Ex"
+            }
+        ],
+        "2.3.5": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.3.5 < 2.3.31 / 2.5 < 2.5.10 -"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.3.5 < 2.3.31 / 2.5 < 2.5.10 -"
+            }
+        ],
+        "2.5": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.5 < 2.5.12 - REST Plugin XStr"
+            }
+        ],
+        "2.5.20": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts 2.5.20 - Double OGNL evaluation"
+            }
+        ],
+        "1.3.10": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts < 1.3.10 / < 2.3.16.2 - ClassLo"
+            }
+        ],
+        "2.2.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Struts < 2.2.0 - Remote Command Execut"
+            }
+        ],
+        "1.6": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Subversion 1.6.x - 'mod_dav_svn/lock.c"
+            }
+        ],
+        "1.1.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Superset 1.1.0 - Time-Based Account En"
+            }
+        ],
+        "0.23": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Superset < 0.23 - Remote Code Executio"
+            }
+        ],
+        "2.0.7": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Syncope 2.0.7 - Remote Code Execution"
+            }
+        ],
+        "1.15": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tika 1.15 - 1.17 - Header Command Inje"
+            }
+        ],
+        "1.18": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tika-server < 1.18 - Command Injection"
+            }
+        ],
+        "10.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 10.1 - Denial Of Service"
+            }
+        ],
+        "3.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.0 - Directory Traversal"
+            }
+        ],
+        "3.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.1 - Path Revealing"
+            }
+        ],
+        "3.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.2 - 404 Error Page Cross-Site"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.2 - Directory Disclosure"
+            }
+        ],
+        "3.2.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.2.3/3.2.4 - 'RealPath.jsp' In"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.2.3/3.2.4 - 'Source.jsp' Info"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 3.2.3/3.2.4 - Example Files Web"
+            }
+        ],
+        "4.0.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 4.0.3 - Denial of Service 'Devi"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 4.0.3 - Requests Containing MS-"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 4.0.3 - Servlet Mapping Cross-S"
+            }
+        ],
+        "4.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 4.1 - JSP Request Cross-Site Sc"
+            }
+        ],
+        "5.5.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 5.5.0 < 5.5.29 / 6.0.0 < 6.0.26"
+            }
+        ],
+        "5.5.15": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 5.5.15 - cal2.jsp Cross-Site Sc"
+            }
+        ],
+        "5.5.25": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 5.5.25 - Cross-Site Request For"
+            }
+        ],
+        "6.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 5.x/6.0.x - Directory Traversal"
+            }
+        ],
+        "6.0.10": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.10 - Documentation Sample A"
+            }
+        ],
+        "6.0.13": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.13 - Host Manager Servlet C"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.13 - Insecure Cookie Handli"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.13 - JSP Example Web Applic"
+            }
+        ],
+        "6.0.15": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.15 - Cookie Quote Handling"
+            }
+        ],
+        "6.0.16": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.16 - 'HttpServletResponse.s"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.16 - 'RequestDispatcher' In"
+            }
+        ],
+        "6.0.18": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 6.0.18 - Form Authentication Ex"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat < 6.0.18 - 'utf8' Directory Tra"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat < 6.0.18 - 'utf8' Directory Tra"
+            }
+        ],
+        "7.0.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 7.0.4 - 'sort' / 'orderBy' Cros"
+            }
+        ],
+        "9.0.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 9.0.0.M1 - Cross-Site Scripting"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat 9.0.0.M1 - Open Redirect"
+            }
+        ],
+        "5.5.17": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat < 5.5.17 - Remote Directory Lis"
+            }
+        ],
+        "9.0.1": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat < 9.0.1 (Beta) / < 8.5.23 / < 8"
+            },
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat < 9.0.1 (Beta) / < 8.5.23 / < 8"
+            }
+        ],
+        "2.0.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat Connector jk2-2.0.2 mod_jk2 - R"
+            }
+        ],
+        "1.2.20": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Tomcat mod_jk 1.2.20 - Remote Buffer O"
+            }
+        ],
+        "6.1.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache UNO / LibreOffice Version: 6.1.2 / Ope"
+            }
+        ],
+        "3.1.2": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache Xerces-C XML Parser < 3.1.2 - Denial o"
+            }
+        ],
+        "1.5.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache2Triad 1.5.4 - Multiple Vulnerabilities"
+            }
+        ],
+        "0.4": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Apache::Gallery 0.4/0.5/0.6 - Insecure File S"
+            }
+        ],
+        "17.12.01": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "ApacheOfBiz 17.12.01 - Remote Command Executi"
+            }
+        ],
+        "1.8.0": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Oracle Java JDK/JRE < 1.8.0.131 / Apache Xerc"
+            }
+        ],
+        "5.4.3": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "PHP 5.4.3 - apache_request_headers Function B"
+            }
+        ],
+        "2.0.40": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "RedHat Apache 2.0.40 - Directory Index Defaul"
+            }
+        ],
+        "2.32": [
+            {
+                "id": "N/A",
+                "cvss": 5.0,
+                "description": "Webfroot Shoutbox < 2.32 (Apache) - Local Fil"
+            }
+        ]
+    }
+}
